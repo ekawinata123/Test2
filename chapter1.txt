@@ -1,1 +1,1 @@
-This file is made to test the git functionality
+This file is made to test the git functionality. This text is added 
