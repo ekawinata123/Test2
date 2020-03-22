@@ -1,1 +1,2 @@
-This file is made to test the git functionality. This text is added 
+This file is made to test the git functionality. This text is added. This text only
+Shown in alien plot part;
